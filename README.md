@@ -1,4 +1,4 @@
-# 🏧 ATM Interface
+# ATM Interface
 
 ## DecodeLabs Java Internship – Project 3
 
@@ -6,7 +6,7 @@ A console-based ATM simulation built with Java. This project demonstrates object
 
 ---
 
-## 🚀 Features
+## Features
 
 - **Deposit money** – add funds to your account
 - **Withdraw money** – remove funds (with overdraft protection)
@@ -21,7 +21,7 @@ A console-based ATM simulation built with Java. This project demonstrates object
 
 ---
 
-## 🛠️ How to Run
+## How to Run
 
 1. **Compile all Java files:**
    ```bash
